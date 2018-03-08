@@ -1,0 +1,92 @@
+/*css for the page styles
+*
+*/
+
+.Page {
+	background: #f6f6f6;
+	border: 1px solid #f6f6f6;
+}
+
+.header {
+/*	background: #23395b;*/
+}
+
+.header h2 {
+	text-decoration: none;
+}
+
+.title {
+	color: #0496ff;
+}
+
+.container {
+	max-width: 60%;
+	margin: 0 auto;
+	padding: 50px 120px;
+	box-shadow: 0px 0px 15px -4px rgba(68,68,68, 0.9);
+	background: #ffffff;
+}
+
+h2.sub-header {
+	margin-top: 1em;
+}
+
+p.sub-project {
+	margin-top: 1em;
+}
+
+p.sub-header {
+	margin-top: 0.8em;
+	
+}
+
+.education p {
+	padding: 5px 0;
+	line-height: 2.4em;
+	display: block;
+	border-bottom: 1px solid rgba(120,120,120, 0.8);
+}
+
+p span.hide {
+	display: none;
+}
+
+.strength {
+	border: 1px solid rgba(240,240,240,0.9)
+}
+
+.clock {
+	padding: 10px 0;
+	margin: 20px 0 15px ;
+	font-size: 1.2em;
+/*	text-decoration: underline;*/
+}
+
+.experience {
+	
+}
+
+.header span {
+	display: inline-block;
+	width: 180px;
+}
+
+span.wide-text {
+}
+
+.personal-details {
+	margin: 10px 0;
+}
+
+.copyright {
+	margin: 2em auto;
+	width: 65%;
+	padding: 20px 80px;
+}
+
+.copyright p {
+	text-align: center;
+	font-size: 1em;
+	color: #3e6680;
+	font-family: sans-serif;
+}
